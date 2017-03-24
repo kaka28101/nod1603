@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"createServer",
+				"https.createServer(opts, requestListener);"
+			],
+			[
+				"creates",
+				"http.createServer(requestListener);"
+			],
+			[
+				"Route",
+				"Route::post\tBasic Post Route."
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Exception",
+				"java_last_exception_get"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"emp",
+				"employee"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"Rout",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"func",
+				"create_function"
+			],
+			[
+				"em",
+				"employee"
+			],
+			[
+				"table",
+				"db2_tables"
+			],
+			[
+				"doctype",
+				"doctype\tDOCTYPE HTML"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 250.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"nod",
+				"Nodejs::User File Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: nodej",
+				"Snippet: Snippet: NodeJS EventEmitter"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Artisan"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: Optimize"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html5",
+				"Snippet: HTML - HTML5 shiv"
+			],
+			[
+				"html5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 75.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/admin/Desktop/NodeJStest/NODEKHOAPHAM"
+	],
+	"file_history":
+	[
+		"/Users/mac/Desktop/androidtest.java",
+		"/untitled",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/public/stylesheets/style.css",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/public/index.html",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/public/javascripts/chat_ui.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/public/javascripts/chat.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/lib/chat_server.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/server.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/package.json",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/node_modules/socket.io/lib/store.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/node_modules/socket.io/lib/transports/websocket/default.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/node_modules/socket.io/lib/manager.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/node_modules/socket.io/lib/namespace.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/server1.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/node_modules/socket.io/lib/socket.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/node_modules/socket.io/lib/transports/websocket/hybi-07-12.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c2Chatroom/node_modules/socket.io/lib/transports/websocket/hybi-16.js",
+		"/Users/mac/Desktop/NodeJStest/note_in_action/c1server.js",
+		"/Users/mac/Desktop/NodeJStest/nodeEVENT.js",
+		"/Users/mac/Desktop/NodeJStest/mainEVENT.js",
+		"/Users/mac/Desktop/NodeJStest/mainNodeAPP.js",
+		"/Users/mac/Desktop/NodeJStest/mainLoop.js",
+		"/Users/mac/Desktop/NodeJStest/mainCallBackerr.js",
+		"/Users/mac/Desktop/NodeJStest/mainCallBack.js",
+		"/Users/mac/Desktop/NodeJStest/Node.js",
+		"/Users/mac/Desktop/NodeJStest/input.txt",
+		"/Users/mac/Desktop/NodeJStest/main.js",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/app/Http/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/resources/views/welcome.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/public/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/app/Providers/RouteServiceProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/app/Http/Controllers/EmployeeController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/app/Employee.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/database/seeds/EmployeesTableSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/database/seeds/DatabaseSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/database/migrations/2017_02_25_081611_create_employees_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/.env",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/routes/api.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/public/oha/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/config/database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/config/queue.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravelrest/readme.md",
+		"/Users/mac/Downloads/Mac APP/JamWiFi-master/README.md",
+		"/aaa.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/mac/Desktop/webtest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p60",
+			"EventEmitter",
+			";\n",
+			"timestamps",
+			"();\n",
+			"\">\n",
+			"in",
+			"cat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/nodeJSS.sublime-build",
+	"project": "KhoaPNode.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
